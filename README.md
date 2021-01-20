@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-Game-using-Python
 
-Tic-Tac-Toe is a very popular game, so I tried to implement it using Pyhton. So, the best and the most fun way to learn any programming language for me has always been by developing a fun project like a simple game or some project that I would use in my daily life.
+Tic-Tac-Toe is a very popular game, so I tried to implement it using Python. So, the best and the most fun way to learn any programming language for me has always been by developing a fun project like a simple game or some project that I would use in my daily life.
 
 I built a two-player tic-tac-toe game, which we can play. Initially, we'll make an empty game board and then we'll take inputs from the players and we'll check for the winning condition and if the whole board gets filled and no one wins, we'll declare the result as "Game Draw".
 
